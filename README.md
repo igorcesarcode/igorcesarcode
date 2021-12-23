@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, sou o Igor César</h1>
-<h3 align="center">Estudante de programação web, apaixonado por 🍕 e que gosta 🎮 no tempo livre.</h3>
+<h3 align="center">Desenvolvedor JavaScript, apaixonado por 🍕 e que gosta 🎮 no tempo livre.</h3>
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
