@@ -3,7 +3,7 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/igorcesardev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igorcesardev/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/igorcesarcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igorcesardev/" height="30" width="40" /></a>
 <a href="https://fb.com/igor.cesar.3705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="igor.cesar.3705" height="30" width="40" /></a>
 </p>
 
